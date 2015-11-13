@@ -1,0 +1,7 @@
+name: Eric013/FileAPI
+author:
+  name: Sanchez Eric
+  email: eric.cmsfr@gmail.com
+  url: www.webdio.fr
+copyright: 2015 Sanchez Eric
+description: "FileAPI — a set of  javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF."
